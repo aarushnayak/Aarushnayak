@@ -34,7 +34,15 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"><br>REST APIs</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"><br>Postman</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"><br>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"><br>Jupyter Notebook</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"><br>Jupyter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"><br>Flask</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="48"><br>Automation</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"><br>Pandas</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48"><br>NumPy</td>
   </tr>
 </table>
 
