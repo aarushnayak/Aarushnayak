@@ -1,60 +1,111 @@
 <div align="center">
-  <img src="/banner.png" />
+
+# 👋 Hello, I'm Aarush Nayak
+
+### Python Backend Developer | Data Engineering Enthusiast | Kaggle Competitor
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Data+Engineering+Learner;Kaggle+Competition+Enthusiast;Building+Scalable+Systems" />
+
 </div>
 
-<h2 align="center">👋 Bonjour, I'm Hrithik</h2>
+---
+
+# 🚀 About Me
+
+🎓 B.Tech Student passionate about **Backend Development & Data Engineering**
+
+💻 Skilled in **Python, Java, SQL, and Web Technologies**
+
+📊 Kaggle competitor working on **Machine Learning projects**
+
+⚙️ Interested in **Apache Spark, Databricks, and scalable systems**
+
+🏆 Participated in **Hackathons & Coding Competitions**
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <b><i><span style="font-size: 18px; letter-spacing: 1px;">Backend. Frontend. AI. Blockchain. I can do it all.</span></i></b>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,mongodb,docker,aws,git,github"/>
+
 </p>
 
+---
 
-## Tech Stack
+# 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"><br>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48"><br>TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"><br>Golang</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>TailwindCSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>NodeJS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"><br>Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"><br>REST APIs</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"><br>Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48"><br>Prisma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"><br>Cloudflare</td>
-  </tr>
-</table>
-
-## 🌐 Connect with Me — Let’s Cook
 <p align="center">
-  <a href="https://www.twitter.com/hrithik_018">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hrithik-nayak-b2a622259/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ramanand_nayak/">
-    <img src="https://img.shields.io/badge/LeetCode-EF9F1E?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aarushnayak&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushnayak&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushnayak&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aarushnayak&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Kaggle Profile
+
+<p align="center">
+
+<a href="https://www.kaggle.com/aarushnayak">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aarush-nayak-8302ab220/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aarushnayak">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
-  <b>“Jack of all trades, master of none — but still better than master of one.”</b><br>
-  
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
 </div>
