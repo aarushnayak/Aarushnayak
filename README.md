@@ -66,3 +66,28 @@
   <b>“Jack of all trades, master of none — but still better than master of one.”</b><br>
   
 </div>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"><br>FastAPI
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=selenium" width="48"><br>Automation
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"><br>Pandas
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"><br>NumPy
+</td>
+
+<td></td>
+<td></td>
+<td></td>
+</tr>
