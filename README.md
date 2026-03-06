@@ -1,43 +1,42 @@
 <div align="center">
-  <img src="/banner.png" />
+
+# 👋 Bonjour, I'm Aarush
+
+Backend. Data Engineering. Machine Learning. I build scalable systems.
+
 </div>
 
-<h2 align="center">👋 Bonjour, I'm Aarush</h2>
+---
 
-<p align="center">
-  <b><i><span style="font-size: 18px; letter-spacing: 1px;">Backend. Frontend. AI. Blockchain. I can do it all.</span></i></b>
-</p>
-
-
-## Tech Stack
+# Tech Stack
 
 <table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"><br>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48"><br>TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"><br>Golang</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>TailwindCSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>NodeJS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"><br>Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"><br>REST APIs</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"><br>Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48"><br>Prisma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"><br>Cloudflare</td>
-  </tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="48"><br>PyCharm</td>
+</tr>
 </table>
 
-## 🌐 Connect with Me — Let’s Cook
+---
+
+# 🌐 Connect with Me — Let’s Cook
 
 <p align="center">
 
@@ -62,7 +61,7 @@
 ---
 
 <div align="center">
-  <b>“Jack of all trades, master of none — but still better than master of one.”</b><br>
-  
-</div>
 
+**“Jack of all trades, master of none — but still better than master of one.”**
+
+</div>
