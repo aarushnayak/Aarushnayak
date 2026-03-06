@@ -5,7 +5,7 @@
 <h2 align="center">👋 Bonjour, I'm Aarush</h2>
 
 <p align="center">
-  <b><i><span style="font-size: 18px; letter-spacing: 1px;">Backend. Frontend. AI. Blockchain. I can do it all.</span></i></b>
+  <b><i><span style="font-size: 18px; letter-spacing: 1px;">Python Backend Developer • Data Engineering Enthusiast • Kaggle Competitor</span></i></b>
 </p>
 
 
