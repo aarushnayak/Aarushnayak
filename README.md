@@ -56,6 +56,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.kaggle.com/aarushnayak">
+    <img src="https://kaggle-readme-stats.vercel.app/api?username=aarushnayak&show_icons=true" />
+  </a>
+</p>
+
 
 ---
 
