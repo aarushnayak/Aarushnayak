@@ -42,14 +42,19 @@
   <a href="https://x.com/aarushasthunder">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/aarush-nayak-8302ab220/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/JhbU2knzhW/">
     <img src="https://img.shields.io/badge/LeetCode-EF9F1E?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/aarushnayak">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
-
 
 
 ---
