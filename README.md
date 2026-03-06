@@ -41,9 +41,8 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"><br>FastAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="48"><br>Automation</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"><br>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48"><br>NumPy</td>
-  </tr>
+  <img src="https://skillicons.dev/icons?i=pandas" width="48"><br>Pandas
+<img src="https://skillicons.dev/icons?i=numpy" width="48"><br>NumPy
 </table>
 
 ## 🌐 Connect with Me — Let’s Cook
