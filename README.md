@@ -9,7 +9,7 @@
 </p>
 
 
-## Tech Stack
+## Tech Stack.
 
 <table>
 <tr>
